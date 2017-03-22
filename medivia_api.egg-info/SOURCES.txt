@@ -1,0 +1,12 @@
+setup.cfg
+setup.py
+medivia-api/__init__.py
+medivia-api/medivia-api.py
+medivia-api/readers.py
+medivia-api/scrapper.py
+medivia-api/utilities.py
+medivia_api.egg-info/PKG-INFO
+medivia_api.egg-info/SOURCES.txt
+medivia_api.egg-info/dependency_links.txt
+medivia_api.egg-info/not-zip-safe
+medivia_api.egg-info/top_level.txt

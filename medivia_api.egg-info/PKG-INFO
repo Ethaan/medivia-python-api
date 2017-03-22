@@ -1,0 +1,12 @@
+Metadata-Version: 1.1
+Name: medivia-api
+Version: 0.1
+Summary: The Medivia API
+Home-page: https://github.com/Ethaan/medivia-python-api
+Author: Ethaan
+Author-email: ethan.rosanoo@gmail.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires: requests
+Requires: bs4
